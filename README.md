@@ -34,5 +34,5 @@ Homepage
 ---
 #### 📽️preview
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lVwHa7tbnWU?si=9oiTHZQGl7HujJa2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[<img src="https://github.com/yekyawhan/y3kh-obsidian-themes/blob/main/images/youtube.png" width="640" height="480"/>](https://www.youtube.com/embed/lVwHa7tbnWU?si=9oiTHZQGl7HujJa2)
 
