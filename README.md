@@ -36,5 +36,5 @@ Homepage
 ---
 #### 📽️preview
 
-[<img src="https://github.com/yekyawhan/y3kh-obsidian-themes/blob/main/images/youtube.png" width="640" height="480"/>](https://www.youtube.com/embed/lVwHa7tbnWU?si=9oiTHZQGl7HujJa2)
+[<img src="https://github.com/yekyawhan/y3kh-obsidian-themes/blob/main/images/youtube.png" width="480" height="320"/>](https://www.youtube.com/embed/lVwHa7tbnWU?si=9oiTHZQGl7HujJa2)
 
