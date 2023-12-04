@@ -1,0 +1,29 @@
+{
+  "accentColor": "#41ee11",
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "dashboard",
+    "dataviewfolder",
+    "style",
+    "custom-rainbow-colors",
+    "custom-admonitions.51224e",
+    "cards",
+    "banner",
+    "extended-colorschemes",
+    "folderview",
+    "Minimal Theme cards",
+    "rain",
+    "tableview",
+    "customimagebackground",
+    "custom-button",
+    "MCL Gallery Cards",
+    "MCL Multi Column",
+    "MCL Wide Views"
+  ],
+  "theme": "obsidian",
+  "baseFontSize": 15,
+  "nativeMenus": false,
+  "translucency": false,
+  "textFontFamily": "FiraCode Nerd Font",
+  "monospaceFontFamily": "FiraCode Nerd Font Mono"
+}

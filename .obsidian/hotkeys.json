@@ -1,0 +1,95 @@
+{
+  "global-search:open": [
+    {
+      "modifiers": [],
+      "key": "F3"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "app:open-settings": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
+    }
+  ],
+  "graph:animate": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "A"
+    }
+  ],
+  "editor:delete-paragraph": [],
+  "graph:open-local": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
+    }
+  ],
+  "cmdr:open-commander-settings": [
+    {
+      "modifiers": [],
+      "key": "F4"
+    }
+  ],
+  "digitalgarden:publish-note": [
+    {
+      "modifiers": [],
+      "key": "F6"
+    }
+  ],
+  "obsidian-auto-link-title:enhance-url-with-title": [],
+  "obsidian-excalidraw-plugin:insert-link-to-element": [],
+  "templater-obsidian:Templer/callout.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ],
+  "chatgpt-md:choose-chat-template": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ],
+  "chatgpt-md:call-chatgpt-api": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "digitalgarden:publish-multiple-notes": [
+    {
+      "modifiers": [],
+      "key": "F7"
+    }
+  ],
+  "remotely-save:start-sync": [
+    {
+      "modifiers": [],
+      "key": "F5"
+    }
+  ]
+}

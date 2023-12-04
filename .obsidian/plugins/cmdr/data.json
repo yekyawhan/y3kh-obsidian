@@ -1,0 +1,93 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [
+    {
+      "id": "obsidian-admonition:insert-admonition",
+      "icon": "airplay",
+      "name": "Admonition: Insert Admonition",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-emoji-toolbar:emoji-picker:open-picker",
+      "icon": "smile",
+      "name": "Emoji Toolbar: Open emoji picker",
+      "mode": "any"
+    },
+    {
+      "id": "workspace:split-vertical",
+      "icon": "lucide-separator-vertical",
+      "name": "Split right",
+      "mode": "any"
+    },
+    {
+      "id": "digitalgarden:publish-note",
+      "icon": "upload",
+      "name": "Digital Garden: Publish Single Note",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-mind-map:app:markmap-preview",
+      "icon": "git-branch",
+      "name": "Mind Map: Preview the current note as a Mind Map",
+      "mode": "any"
+    },
+    {
+      "id": "editor:open-link-in-new-leaf",
+      "icon": "lucide-link",
+      "name": "Open link under cursor in new tab",
+      "mode": "any"
+    },
+    {
+      "id": "editor:follow-link",
+      "icon": "lucide-link",
+      "name": "Follow link under cursor",
+      "mode": "any"
+    }
+  ],
+  "fileMenu": [
+    {
+      "id": "properties:open-local",
+      "icon": "lucide-info",
+      "name": "Properties view: Show file properties",
+      "mode": "any"
+    },
+    {
+      "id": "digitalgarden:quick-publish-and-share-note",
+      "icon": "share-2",
+      "name": "Digital Garden: Quick Publish And Share Note",
+      "mode": "any"
+    }
+  ],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [
+    {
+      "id": "open-with-default-app:show",
+      "icon": "lucide-files",
+      "name": "Show in system explorer",
+      "mode": "any",
+      "color": "#75c1f0"
+    }
+  ],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

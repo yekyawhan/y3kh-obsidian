@@ -1,0 +1,275 @@
+{
+  "main": {
+    "id": "d468923ab6e9d4aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f209daef4adaaa0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "075855218c5dd688",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd55829a4c3490df",
+    "type": "split",
+    "children": [
+      {
+        "id": "e30180c41cc93bdb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fbca20e14c9b560",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f10a431fe6c38cff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "1ff655a936f1c179",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#nmap",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae3c195fb421f197",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 246
+  },
+  "right": {
+    "id": "2df5916a4c2d70c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "3420863c06d14aa8",
+        "type": "tabs",
+        "dimension": 22.771317829457363,
+        "children": [
+          {
+            "id": "32e6464c3d62623d",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {}
+            }
+          },
+          {
+            "id": "11ba6a91e5fcb861",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "e455627c0380a222",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "0a2bed5f8b3c26c1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "6b4dd323cb7ef160",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "32e574b9003f9b29",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67091fdf9989fecf",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "df15b46c229be4ad",
+        "type": "tabs",
+        "dimension": 46.41472868217054,
+        "children": [
+          {
+            "id": "9020f4fcc6739407",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c7f44634a5222a78",
+        "type": "tabs",
+        "dimension": 30.813953488372093,
+        "children": [
+          {
+            "id": "7cf79a0381f93f63",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 322
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "obsidian-calibre-plugin:Calibre": false,
+      "graph:Open graph view": false,
+      "workspaces:Manage workspace layouts": false,
+      "daily-notes:Open today's daily note": false,
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "remotely-save:Remotely Save": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-projects:Open projects": false,
+      "open-vscode:VSCode": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-gallery:Gallery": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-audio-notes:Quick Audio Note with Transcription": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "075855218c5dd688",
+  "lastOpenFiles": [
+    "test folder/test note.md",
+    "test folder/Untitled.md",
+    "test folder",
+    "Music by y3kh/မှတ်တိုင်.mp3",
+    "Home Page/Your's Home Page.md",
+    "Template/complete check box.md",
+    "Untitled.md",
+    "ပြဇာတ်မဟုတ်သောပြဇာတ်.mp3.md",
+    "Template/whatismyip.md",
+    "Template/Simple template design.md",
+    "Template/Nmap scan template.md",
+    "Wallpaper/y3kh-homepage.png",
+    "Wallpaper/colour.png",
+    "Wallpaper/bg.png",
+    "Wallpaper/button/btn-dailynote.png",
+    "password cracking Brute Force Collection.md",
+    "Template/timezone.md",
+    "Template/when i atttack something or box use this template.md",
+    "Template/bashrc and zshrc/oh my zsh original.md",
+    "Template/bashrc and zshrc/getfullshell.md",
+    "Template/bashrc and zshrc/bashrc.md",
+    "Template/bashrc and zshrc/Luke's config for the Zoomer Shell.md",
+    "Template/bashrc and zshrc/my final zshrc format ready to use.md",
+    "Template/bashrc and zshrc/powershell oh my posh.md",
+    "Template/bashrc and zshrc/Zshrc original.md",
+    "Music by y3kh/Y3KH-MUSIC.md",
+    "Music by y3kh/ဝှက်ထားတဲ့ကောင်းကင်.mp3",
+    "Music by y3kh/ဝေးသွားလည်း.mp3",
+    "Music by y3kh/ပြဇာတ်မဟုတ်သောပြဇာတ်.mp3",
+    "Music by y3kh/နွေဦး.mp3",
+    "Music by y3kh/Truma- สัตว์ร้าย.mp3",
+    "Music by y3kh/Trauma-eng.mp3",
+    "Music by y3kh",
+    "Wallpaper/wallpaper1.png",
+    "Wallpaper/fg.png",
+    "Wallpaper/hill2.webp",
+    "Wallpaper/london-tree.jpg",
+    "Wallpaper/nature-waterfall.jpg",
+    "Wallpaper/rain.png",
+    "Template/download from win cmd.md",
+    "Template/multi colum single-3 role 2 colum.md",
+    "Template/multi colum.md",
+    "Template/template sand box.md",
+    "Template/permanent  get terminal.md",
+    "Template/multi colum singleline.md",
+    "Home Page",
+    "Canvas Vault/Untitled 2.canvas",
+    "Canvas Vault/Untitled 1.canvas",
+    "Canvas Vault/Untitled.canvas"
+  ]
+}

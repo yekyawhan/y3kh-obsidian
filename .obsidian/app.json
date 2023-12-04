@@ -1,0 +1,17 @@
+{
+  "promptDelete": false,
+  "showLineNumber": false,
+  "legacyEditor": false,
+  "trashOption": "local",
+  "attachmentFolderPath": "Images All/cct-images",
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "visible",
+  "defaultViewMode": "preview",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
