@@ -8,14 +8,14 @@ Download application From official site [here](https://obsidian.md/download)
 <br>
 `before replace it`  
 <br>
-only replace [.obsidian](https://github.com/yekyawhan/y3kh-obsidian-themes/blob/main/.obsidian.zip) folder
-#### 📎 Here is linux cli 
+only replace [.obsidian](https://github.com/yekyawhan/yekyawhan/blob/main/.obsidian.zip) folder
+#### 📎 Here is for linux cli 
 ```sh
 git clone https://github.com/yekyawhan/y3kh-obsidian-themes.git
 ```
 
-#### 📎 Here is windows
-[Download link here](https://github.com/yekyawhan/y3kh-obsidian-themes/blob/main/.obsidian.zip)
+#### 📎 Here is for windows
+[Download link here](https://github.com/yekyawhan/yekyawhan/blob/main/.obsidian.zip)
 #### 👍 OS ? 
 ```
 Themes are tested on windows and kali
