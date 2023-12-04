@@ -1,12 +1,14 @@
 # Obsidian  modified themes 
 
 Download application From official site [here](https://obsidian.md/download)
-
+<br>
 `and plug in themes are follow preocedure`
+<br>
 `make sure download backup your data`
+<br>
 `before replace it`  
+<br>
 only replace [.obsidian](https://github.com/yekyawhan/y3kh-obsidian-themes/blob/main/.obsidian.zip) folder
-
 #### 📎 Here is linux cli 
 ```sh
 git clone https://github.com/yekyawhan/y3kh-obsidian-themes.git
