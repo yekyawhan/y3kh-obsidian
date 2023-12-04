@@ -1,7 +1,8 @@
 # Obsidian  modified themes 
 
 `make sure download backup your data`
-`before replace it`
+`before replace it`  
+only replace [.obsidian](https://github.com/yekyawhan/y3kh-obsidian-themes/blob/main/.obsidian.zip) folder
 
 #### 📎 Here is linux cli 
 ```sh
