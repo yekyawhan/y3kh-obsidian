@@ -1,5 +1,8 @@
 # Obsidian  modified themes 
 
+Download application From official site [here](https://obsidian.md/download)
+
+`and plug in themes are follow preocedure`
 `make sure download backup your data`
 `before replace it`  
 only replace [.obsidian](https://github.com/yekyawhan/y3kh-obsidian-themes/blob/main/.obsidian.zip) folder
